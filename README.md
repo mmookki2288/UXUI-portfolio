@@ -23,7 +23,6 @@ My responsibilities included:
 ---
 
 ## 🛠 Main Tools & Technologies
-## 🛠 Tools & Technologies
 
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
