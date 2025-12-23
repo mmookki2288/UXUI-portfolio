@@ -33,6 +33,7 @@ During the internship, I worked on analyzing business processes, designing syste
 
 ## 🏢 Internship Overview 
 * ได้ทำงานทั้งด้านเทคนิคและการวิเคราะห์ เรียนรู้กระบวนการทำงานจริงขององค์กร และมีส่วนร่วมในโปรเจกต์ที่ใช้งานจริง
+
 During my internship, I was involved in both technical and analytical tasks.  
 My responsibilities included:
 - Supporting system analysis tasks
