@@ -2,6 +2,21 @@
 
 This repository showcases my internship experience, focusing on system analysis, UX/UI design, and real-world enterprise systems.  
 During the internship, I worked on analyzing business processes, designing system workflows, and supporting projects related to SAP and internal applications.
+---
+## 🛠 Main Tools & Technologies
+
+![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
+![SAP](https://img.shields.io/badge/SAP-Enterprise_System-0FAAFF?logo=sap)
+![Miro](https://img.shields.io/badge/Miro-Whiteboard-yellow?logo=miro)
+![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel)
+
+- Figma (UX/UI Design)
+- SAP (Business Process & Data Understanding)
+- Requirement Documents
+- User Flow Diagrams
+- Wireframes
+- Microsoft Excel / Documentation Tools
 
 ---
 
@@ -19,23 +34,6 @@ My responsibilities included:
 - Designing UX/UI for internal applications
 - Assisting with SAP-related operations and data flow analysis
 - Working on real business projects (RBI & Exercise App)
-
----
-
-## 🛠 Main Tools & Technologies
-
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
-![SAP](https://img.shields.io/badge/SAP-Enterprise_System-0FAAFF?logo=sap)
-![Miro](https://img.shields.io/badge/Miro-Whiteboard-yellow?logo=miro)
-![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel)
-
-- Figma (UX/UI Design)
-- SAP (Business Process & Data Understanding)
-- Requirement Documents
-- User Flow Diagrams
-- Wireframes
-- Microsoft Excel / Documentation Tools
 
 ---
 
