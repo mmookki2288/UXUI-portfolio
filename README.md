@@ -23,6 +23,14 @@ My responsibilities included:
 ---
 
 ## 🛠 Main Tools & Technologies
+## 🛠 Tools & Technologies
+
+![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
+![SAP](https://img.shields.io/badge/SAP-Enterprise_System-0FAAFF?logo=sap)
+![Miro](https://img.shields.io/badge/Miro-Whiteboard-yellow?logo=miro)
+![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel)
+
 - Figma (UX/UI Design)
 - SAP (Business Process & Data Understanding)
 - Requirement Documents
