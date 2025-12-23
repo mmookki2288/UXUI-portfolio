@@ -1,4 +1,3 @@
-<img width="785" height="625" alt="image" src="https://github.com/user-attachments/assets/884fa4b7-f428-49f0-9d32-94b3f9222da7" 
   /># Exercise App – UX/UI Design & System Analysis
 
 🔗 Figma Design (View Only):  
