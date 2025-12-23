@@ -1,4 +1,5 @@
-<img width="425" height="664" alt="image" src="https://github.com/user-attachments/assets/4c28468d-f86c-4c0c-9214-fb22b6df6083" /># RBI Project – UX/UI Design & System Analysis
+<img width="425" height="664" alt="image" src="https://github.com/user-attachments/assets/4c28468d-f86c-4c0c-9214-fb22b6df6083" 
+  /># RBI Project – UX/UI Design & System Analysis
 
 🔗 Figma Design (View Only):  
 [https://www.figma.com/your-link-here](https://www.figma.com/design/KOxAmK16RRdySrWF8Tou8K/RBI?node-id=0-1&t=ZRPgKOrB3jp1e06K-1)
@@ -15,12 +16,20 @@ The focus is on designing clear system workflows and user-friendly interfaces al
 ---
 
 ## 🎯 Project Objective
-- Analyze business requirements and system needs
-- Design system workflows and user flows
-- Create UX/UI designs aligned with system logic
-- Improve usability and clarity of the interface
+- Machine evaluation is mainly done using paper documents and Excel files.
+- Data entry is manual and time-consuming.
+- Information is scattered and difficult to track.
+- Evaluation history is not easy to review or analyze.
 
 ---
+- 💡 My Role & Solution
+- Analyzed the current machine evaluation workflow.
+- Collected and clarified business requirements.
+- Designed a digital UX/UI to replace document- and Excel-based processes.
+- Created user flows to support the evaluation process.
+- Designed clear and user-friendly screens for data input and review.
+
+--
 
 ## 🛠 Tools
 - Figma
