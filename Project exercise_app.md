@@ -1,4 +1,5 @@
-<img width="785" height="625" alt="image" src="https://github.com/user-attachments/assets/884fa4b7-f428-49f0-9d32-94b3f9222da7" /># Exercise App – UX/UI Design & System Analysis
+<img width="785" height="625" alt="image" src="https://github.com/user-attachments/assets/884fa4b7-f428-49f0-9d32-94b3f9222da7" 
+  /># Exercise App – UX/UI Design & System Analysis
 
 🔗 Figma Design (View Only):  
 [https://www.figma.com/your-link-here](https://www.figma.com/design/FJz4PECGGzO51pASCsXWQA/exercise-app?node-id=0-1&p=f&t=onuPIc1essrhDNDL-0)
@@ -19,8 +20,6 @@ The focus is on creating a simple, user-friendly app experience that supports da
 - Design user flows for exercise selection and tracking
 - Create UX/UI designs suitable for mobile app usage
 - Improve usability and user engagement
-<img width="785" height="625" alt="image" src="https://github.com/user-attachments/assets/67b3a873-6e6f-4a47-a85b-e797ea21330c" />
-
 ---
 
 ## 🛠 Tools
